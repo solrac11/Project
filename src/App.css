@@ -1,0 +1,12 @@
+li{
+    font-weight: 500;
+    letter-spacing: 0.6px;
+    /* cursor: pointer; */
+    text-transform: uppercase;
+    
+}
+
+nav li {
+    /* text-transform: uppercase; */
+    color: #fff;
+}
